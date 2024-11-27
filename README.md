@@ -1,2 +1,3 @@
-# bpb-freenodes
-利用bpb漏洞获取免费的节点，cloudflareWorkers部署
+# 【免费节点生成器】利用bpb面板漏洞白嫖节点，一键操作，永不失联！小白轻松上手！大家拿去玩！
+
+[视频教程](https://youtu.be/TihA2Um95L0)
